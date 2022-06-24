@@ -1,0 +1,51 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "bc820c7821ca66f6",
+            "max_int": "eac2d1483686da08",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "BTS J-Hope",
+            "photo": "https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+            "voice": "https://ringy9.github.io/BTS-J-Hope/hero_voice.mp3",
+            "video": "https://ringy9.github.io/BTS-J-Hope/hero_video.mp4",
+            "stories": [
+            "https://i.postimg.cc/htKHPrMn/075e8d6ca65456ecfc221cb865de4c95.jpg",
+"https://i.postimg.cc/vZzwWjDD/1c88dceede3f45c59909b1fcef93a88d.jpg",
+"https://i.postimg.cc/jj3V17Hb/822764fe18863e1c8b7b050851ee54ea.jpg",
+"https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+"https://i.postimg.cc/G26WLngg/a5f22eb71fc41963c17f275d5cc33702.jpg",
+"https://i.postimg.cc/tCQK8yxY/ae719250b4133b29ca68142fc617fab0.jpg",
+"https://i.postimg.cc/66vsHTTk/ae87e881072413b6f672b422c57cd80e.jpg",
+"https://i.postimg.cc/5NBhVGBp/bc3736ff26771cfd86c63a1f9588de56.jpg",
+"https://i.postimg.cc/tT10G4kV/be2f9e64aa912ded115989739e705057.jpg",
+"https://i.postimg.cc/5t0T82Zk/c4e58df1cc25ec020b727d24d2a8ba64.jpg",
+"https://i.postimg.cc/52pDHCkC/e39b0ed58ab5e5655fcc536a64bffb53.jpg"
+               
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/htKHPrMn/075e8d6ca65456ecfc221cb865de4c95.jpg",
+"https://i.postimg.cc/vZzwWjDD/1c88dceede3f45c59909b1fcef93a88d.jpg",
+"https://i.postimg.cc/jj3V17Hb/822764fe18863e1c8b7b050851ee54ea.jpg",
+"https://i.postimg.cc/bvwcLT2g/8c9f7c00c124c3e46884d07924bf6c18.jpg",
+"https://i.postimg.cc/G26WLngg/a5f22eb71fc41963c17f275d5cc33702.jpg",
+"https://i.postimg.cc/tCQK8yxY/ae719250b4133b29ca68142fc617fab0.jpg",
+"https://i.postimg.cc/66vsHTTk/ae87e881072413b6f672b422c57cd80e.jpg",
+"https://i.postimg.cc/5NBhVGBp/bc3736ff26771cfd86c63a1f9588de56.jpg",
+"https://i.postimg.cc/tT10G4kV/be2f9e64aa912ded115989739e705057.jpg",
+"https://i.postimg.cc/5t0T82Zk/c4e58df1cc25ec020b727d24d2a8ba64.jpg",
+"https://i.postimg.cc/52pDHCkC/e39b0ed58ab5e5655fcc536a64bffb53.jpg"
+            ]
+          
+        }
+    ]
+}
